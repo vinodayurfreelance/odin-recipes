@@ -24,7 +24,7 @@ body{
  text-align: center;
 }
 .hero-content{
-    max-width:1080px;
+    max-width:fit-content;
     margin:0 auto;
 }
 
