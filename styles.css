@@ -19,4 +19,12 @@ body{
 .logo{
     margin-right: auto;
 }
+.hero{
+ padding: 60px 20px;
+ text-align: center;
+}
+.hero-content{
+    max-width:800px;
+    margin:0 auto;
+}
 
