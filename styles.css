@@ -28,9 +28,11 @@ body{
     text-align: justify;
     margin:0 auto;
 }
+
 .hero-content h1{
     padding: 60px 20px;
 }
+
 .recipes{
     padding: 40px 20px;
 }
