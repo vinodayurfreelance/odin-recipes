@@ -25,7 +25,6 @@ body{
 }
 .hero-content{
     max-width:1080px;
-    text-align: justify;
     margin:0 auto;
 }
 
@@ -49,4 +48,19 @@ body{
     flex:1;
     min-width: 220px;
 }
-
+.recipe-card{
+    padding: 20px;
+    border: 1px; solid #ddd;
+    border-radius: 10px;
+}
+>.recipe-card h3{
+    margin-top: 0;
+}
+.recipe-card ul{
+    padding-left: 20px;
+}
+.recipe-card a{
+    display:inline-block;
+    margin-top:10px;
+    text-decoration: none;
+}
