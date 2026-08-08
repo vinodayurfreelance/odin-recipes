@@ -27,4 +27,20 @@ body{
     max-width:800px;
     margin:0 auto;
 }
+.recipes{
+    padding: 40px 20px;
+}
+.recipes h2{
+    text-align: center;
+
+}
+.recipe-cards{
+    display:flex;
+    gap:20px;
+    flex-wrap: wrap;
+}
+.recipe-card{
+    flex:1;
+    min-width: 220px;
+}
 
