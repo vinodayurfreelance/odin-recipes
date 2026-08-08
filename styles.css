@@ -50,10 +50,10 @@ body{
 }
 .recipe-card{
     padding: 20px;
-    border: 1px; solid #ddd;
+    border: 2px solid #ddd;
     border-radius: 10px;
 }
->.recipe-card h3{
+.recipe-card h3{
     margin-top: 0;
 }
 .recipe-card ul{
@@ -63,4 +63,17 @@ body{
     display:inline-block;
     margin-top:10px;
     text-decoration: none;
+}
+.why-us{
+    padding:40px 20px ;
+}
+.why-card{
+    max-width:800px;
+    margin:0 auto;
+    padding:20px;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+}
+.why-card h2{
+    margin-top:0;
 }
