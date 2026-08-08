@@ -82,3 +82,27 @@ footer{
     padding:20px;
     text-align: center;
 }
+.recipe-page{
+    padding:40px 20px;
+}
+.recipe-page .recipe-card{
+    max-width: 800px;
+    margin:0;
+}
+.recipe-page img{
+    display: block;
+    width:300px;
+    max-width:100%;
+    height: auto;
+    margin:20px auto;
+
+}
+.recipe-details{
+    padding:20px;
+}
+.ingredients{
+    padding-left:20px;
+}
+.instructions{
+    padding-left:20px;
+}
