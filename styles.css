@@ -77,3 +77,8 @@ body{
 .why-card h2{
     margin-top:0;
 }
+footer{
+    margin-top:40px;
+    padding:20px;
+    text-align: center;
+}
