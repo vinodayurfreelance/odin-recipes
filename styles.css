@@ -144,3 +144,17 @@ footer{
 .contact-card address{
     font-style: normal;
 }
+@media(max-width:700px){
+    .navbar{
+        flex-direction: column;
+    }
+    .logo{
+        margin-right: 0;
+    }
+    .recipe-cards{
+        flex-direction: column;
+    }
+    .recipe-card{
+        min-width:100%;
+    }
+}
